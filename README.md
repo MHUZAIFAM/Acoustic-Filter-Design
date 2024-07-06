@@ -1,6 +1,5 @@
-## ACOUSTIC FILTER DESIGN
-A band-pass acoustic filter designed for a poultry farm is essential for maintaining the health and well-being of chicks. This specialized filter allows only specific frequencies to pass through while blocking others, ensuring that the chicks are exposed to optimal sound levels that promote their growth and reduce stress. By filtering out harmful or disruptive noises, the acoustic environment becomes more conducive to healthy development and overall productivity on the farm.
 # Acoustic Filter Design for Enhancing Poultry Health Management
+A band-pass acoustic filter designed for a poultry farm is essential for maintaining the health and well-being of chicks. This specialized filter allows only specific frequencies to pass through while blocking others, ensuring that the chicks are exposed to optimal sound levels that promote their growth and reduce stress. By filtering out harmful or disruptive noises, the acoustic environment becomes more conducive to healthy development and overall productivity on the farm.
 
 ## Authors
 - **Muhammad Huzaifa**  
